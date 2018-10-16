@@ -1,0 +1,8 @@
+*.tar.xz
+razer_test/src
+razer_test/pkg
+razer_test/razer_test
+razer_genie/src
+razer_genie/pkg
+razer_genie/RazerGenie
+
